@@ -1,0 +1,348 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Scaffold project structure and dependencies": [
+      {
+        "executionId": "0adc7b5a-b745-4045-a862-458c545494da",
+        "chatSessionId": "sess_4faf1eff-9857-4441-a41d-0892ba077e5a",
+        "timestamp": 1790969598044
+      },
+      {
+        "executionId": "0adc7b5a-b745-4045-a862-458c545494da",
+        "chatSessionId": "sess_4faf1eff-9857-4441-a41d-0892ba077e5a",
+        "timestamp": 1790969661006
+      }
+    ],
+    "2.1 Implement `LIFNeuron` in `core/lif_neuron.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671006
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969677907
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969726543
+      }
+    ],
+    "2.2 Write unit tests for `LIFNeuron`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671121
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969729132
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969812004
+      }
+    ],
+    "3.1 Implement generators in `core/current.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671205
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969814842
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969861049
+      }
+    ],
+    "3.2 Write unit tests for current generators": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671326
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969863611
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969912058
+      }
+    ],
+    "4.1 Implement `VectorN` and history buffers in `core/engine.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671424
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969914735
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970038082
+      }
+    ],
+    "4.2 Implement `SimulationEngine` with the ordered step": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671506
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970041023
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970132281
+      }
+    ],
+    "4.3 Write unit tests for the engine": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671587
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970134718
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970232366
+      }
+    ],
+    "5. Implement the timing model in the engine/driver": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671668
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970235355
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970361867
+      }
+    ],
+    "6.1 Implement `NetworkDiagram` in `gui/plots.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671743
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970369606
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970459111
+      }
+    ],
+    "6.2 Implement `PotentialPlot` and `CurrentPlot`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671819
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970461768
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970521910
+      }
+    ],
+    "6.3 Implement `VectorPlot`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969671985
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970524826
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970607922
+      }
+    ],
+    "7.1 Implement `NeuronControlPanel` in `gui/controls.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672064
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970611303
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970675179
+      }
+    ],
+    "7.2 Implement `InputControlPanel`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672147
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970678311
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970757664
+      }
+    ],
+    "7.3 Implement `WeightControls` and `SimControls`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672222
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970760200
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970853420
+      }
+    ],
+    "8.1 Implement `MainWindow` in `gui/main_window.py`": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672294
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970856825
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970952623
+      }
+    ],
+    "8.2 Implement the QTimer tick loop": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672373
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970955659
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790971027219
+      }
+    ],
+    "9. Wire the entry point and verify end to end": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969672472
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790971030234
+      },
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790971539567
+      }
+    ],
+    "2. Implement the LIF neuron core": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969812142
+      }
+    ],
+    "3. Implement current generators": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790969912158
+      }
+    ],
+    "4. Implement the simulation engine and vector N dynamics": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970232480
+      }
+    ],
+    "6. Build the plot widgets": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970608028
+      }
+    ],
+    "7. Build the control panels": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790970853537
+      }
+    ],
+    "8. Assemble the main window and wire the timer": [
+      {
+        "executionId": "1f89c54d-a63c-4133-bd8d-85154278ce68",
+        "chatSessionId": "sess_428a669d-bb85-4f41-a027-dafa2b75a80a",
+        "timestamp": 1790971027319
+      }
+    ]
+  }
+}
